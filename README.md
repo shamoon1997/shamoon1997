@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full Stack web development (MERN)**
 
-- 📫 How to reach me **sshammoon83@gmail.com**
+- 📫 How to reach me **sshamoon83@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
